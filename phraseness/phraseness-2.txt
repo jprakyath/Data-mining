@@ -1,0 +1,74 @@
+2.71827936092 natural language 
+2.2507252915 search engine 
+1.8923513387 page web 
+1.26964510383 service web 
+1.25463258393 information retrieval 
+0.804225162325 retrieval document 
+0.713244752752 semantic web 
+0.686980756037 search web 
+0.551588856786 system retrieval 
+0.533912752289 system information 
+0.47352994928 based retrieval 
+0.470414349568 system based 
+0.0256530185812 based web 
+0.0 result 
+0.0 interface 
+0.0 application 
+0.0 automatic 
+0.0 image 
+0.0 model 
+0.0 knowledge 
+0.0 towards 
+0.0 database 
+0.0 document 
+0.0 mobile 
+0.0 content 
+0.0 robot 
+0.0 generation 
+0.0 indexing 
+0.0 collaborative 
+0.0 service 
+0.0 information 
+0.0 xml 
+0.0 environment 
+0.0 context 
+0.0 approach 
+0.0 agent 
+0.0 scale 
+0.0 web 
+0.0 study 
+0.0 system 
+0.0 using 
+0.0 modeling 
+0.0 analysis 
+0.0 building 
+0.0 retrieval 
+0.0 user 
+0.0 page 
+0.0 text 
+0.0 collection 
+0.0 based 
+0.0 search 
+0.0 evaluation 
+0.0 understanding 
+0.0 extraction 
+0.0 word 
+0.0 query 
+0.0 engine 
+0.0 multi 
+0.0 feedback 
+0.0 relevance 
+0.0 driven 
+0.0 term 
+0.0 social 
+0.0 question 
+0.0 filtering 
+0.0 natural 
+0.0 structured 
+0.0 interactive 
+0.0 topic 
+0.0 language 
+0.0 mining 
+0.0 semantic 
+0.0 data 
+-0.0482143047168 information based 

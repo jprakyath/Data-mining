@@ -1,0 +1,72 @@
+0.0506 mining 
+0.0391 graph 
+0.0315 algorithm 
+0.0286 pattern 
+0.0224 mining data 
+0.0182 association 
+0.0165 approximation 
+0.0151 optimal 
+0.0137 fast 
+0.0131 dimensional 
+0.0126 rule association 
+0.0125 random 
+0.0123 finding 
+0.0123 space 
+0.0123 frequent 
+0.0113 series 
+0.0111 similarity 
+0.011 mining pattern 
+0.011 path 
+0.0105 series time 
+0.0099 bound 
+0.0095 matching 
+0.0092 approximate 
+0.0089 tree 
+0.0087 metric 
+0.0086 mining association 
+0.0086 rule mining 
+0.0084 time 
+0.0081 discovering 
+0.0079 reduction 
+0.0075 sequence 
+0.0073 set 
+0.0073 preserving 
+0.0073 distance 
+0.0069 privacy 
+0.0069 mining frequent 
+0.0068 improved 
+0.0067 rule mining association 
+0.0066 cluster 
+0.0064 maximum 
+0.0063 minimum 
+0.0063 algorithm approximation 
+0.0062 sequential 
+0.0061 rule 
+0.0061 computing 
+0.0059 clustering data 
+0.0058 algorithm efficient 
+0.0057 expression 
+0.0055 sampling 
+0.0055 polynomial 
+0.001 detection 
+0.0001 indexing 
+-0.0002 data stream 
+-0.0012 linear 
+-0.0013 local 
+-0.0024 data 
+-0.0026 stream 
+-0.0033 technique 
+-0.0047 dynamic 
+-0.0048 discovery 
+-0.0051 via 
+-0.0061 temporal 
+-0.0068 efficient 
+-0.0068 decision 
+-0.0071 application 
+-0.0076 analysis 
+-0.0095 method 
+-0.0109 constraint 
+-0.0116 clustering 
+-0.0178 search 
+-0.023 based 
+-0.0291 using 

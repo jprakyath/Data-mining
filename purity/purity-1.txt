@@ -1,0 +1,85 @@
+0.0457 learning 
+0.0351 classification 
+0.0308 using 
+0.0294 feature 
+0.0227 recognition 
+0.0222 selection 
+0.0186 machine 
+0.0171 bayesian 
+0.0169 classifier 
+0.0148 model 
+0.0145 kernel 
+0.0136 vector 
+0.0134 hierarchical 
+0.0131 support 
+0.0123 probabilistic 
+0.0108 combining 
+0.0107 class 
+0.0106 supervised 
+0.0101 markov 
+0.0099 semi 
+0.009 segmentation 
+0.009 active 
+0.0089 learning using 
+0.0088 feature selection 
+0.0088 support vector 
+0.0085 network 
+0.0085 nearest 
+0.0083 neighbor 
+0.0082 method 
+0.0082 boosting 
+0.0081 robust 
+0.0077 neural 
+0.0076 function 
+0.0076 estimation 
+0.0075 regression 
+0.0074 improving 
+0.0074 machine vector 
+0.0073 nearest neighbor 
+0.0073 variable 
+0.0072 using model 
+0.0072 categorization 
+0.007 support machine 
+0.0069 based learning 
+0.0069 support machine vector 
+0.0068 online 
+0.0068 machine learning 
+0.0067 comparison 
+0.0066 ensemble 
+0.0065 based model 
+0.0065 classification text 
+0.0065 ranking 
+0.0064 learning model 
+0.0064 network bayesian 
+0.0064 training 
+0.0063 semi supervised 
+0.0063 unsupervised 
+0.0063 prediction 
+0.0061 network neural 
+0.006 mixture 
+0.0059 tree decision 
+0.0058 network learning 
+0.005 decision 
+0.0033 clustering 
+0.0033 multi 
+0.0027 multiple 
+0.0021 via 
+0.0008 analysis 
+-0.0003 image 
+-0.0004 process 
+-0.0008 structure 
+-0.0014 inference 
+-0.0017 local 
+-0.0023 linear 
+-0.0025 framework 
+-0.0036 extraction 
+-0.0044 approach 
+-0.0052 detection 
+-0.0057 dynamic 
+-0.007 text 
+-0.0138 document 
+-0.0139 tree 
+-0.0142 object 
+-0.0149 based 
+-0.0296 algorithm 
+-0.0299 data 

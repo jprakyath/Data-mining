@@ -1,0 +1,85 @@
+6.56998740249 support machine vector 
+4.10424688277 nearest neighbor 
+3.5547280346 semi supervised 
+3.36480601935 support vector 
+2.83993982965 machine vector 
+2.83975755976 tree decision 
+2.82613245774 support machine 
+2.80256035222 network neural 
+2.0633246956 network bayesian 
+2.0596917252 feature selection 
+1.79241435939 classification text 
+0.866055479804 machine learning 
+0.57896175396 based model 
+0.308992862407 network learning 
+0.30005936916 using model 
+0.0446585236591 based learning 
+0.0 active 
+0.0 classifier 
+0.0 image 
+0.0 model 
+0.0 selection 
+0.0 online 
+0.0 robust 
+0.0 variable 
+0.0 nearest 
+0.0 comparison 
+0.0 feature 
+0.0 inference 
+0.0 detection 
+0.0 clustering 
+0.0 multiple 
+0.0 neural 
+0.0 neighbor 
+0.0 support 
+0.0 approach 
+0.0 markov 
+0.0 algorithm 
+0.0 segmentation 
+0.0 semi 
+0.0 regression 
+0.0 via 
+0.0 using 
+0.0 linear 
+0.0 decision 
+0.0 class 
+0.0 framework 
+0.0 mixture 
+0.0 ensemble 
+0.0 ranking 
+0.0 prediction 
+0.0 text 
+0.0 combining 
+0.0 based 
+0.0 recognition 
+0.0 supervised 
+0.0 network 
+0.0 boosting 
+0.0 improving 
+0.0 unsupervised 
+0.0 extraction 
+0.0 kernel 
+0.0 object 
+0.0 local 
+0.0 analysis 
+0.0 method 
+0.0 learning 
+0.0 multi 
+0.0 dynamic 
+0.0 machine 
+0.0 structure 
+0.0 categorization 
+0.0 process 
+0.0 hierarchical 
+0.0 tree 
+0.0 document 
+0.0 classification 
+0.0 probabilistic 
+0.0 bayesian 
+0.0 training 
+0.0 function 
+0.0 vector 
+0.0 data 
+0.0 estimation 
+-0.0941039183829 learning using 
+-0.163246311401 learning model 

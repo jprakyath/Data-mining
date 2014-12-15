@@ -1,0 +1,72 @@
+4.33568850555 rule mining association 
+2.8182713948 rule association 
+2.81261648483 series time 
+1.6510852117 data stream 
+1.57550827792 mining frequent 
+1.4080642512 mining association 
+1.26041496404 algorithm approximation 
+1.20038090428 mining pattern 
+1.1944901509 rule mining 
+1.01887289524 mining data 
+0.967993686128 clustering data 
+0.70636590295 algorithm efficient 
+0.0 sampling 
+0.0 approximation 
+0.0 frequent 
+0.0 minimum 
+0.0 via 
+0.0 constraint 
+0.0 rule 
+0.0 finding 
+0.0 method 
+0.0 series 
+0.0 sequence 
+0.0 metric 
+0.0 indexing 
+0.0 detection 
+0.0 clustering 
+0.0 discovering 
+0.0 reduction 
+0.0 maximum 
+0.0 time 
+0.0 distance 
+0.0 matching 
+0.0 computing 
+0.0 algorithm 
+0.0 privacy 
+0.0 search 
+0.0 technique 
+0.0 using 
+0.0 space 
+0.0 linear 
+0.0 decision 
+0.0 bound 
+0.0 analysis 
+0.0 temporal 
+0.0 fast 
+0.0 local 
+0.0 based 
+0.0 stream 
+0.0 similarity 
+0.0 path 
+0.0 association 
+0.0 efficient 
+0.0 dimensional 
+0.0 cluster 
+0.0 approximate 
+0.0 dynamic 
+0.0 pattern 
+0.0 graph 
+0.0 random 
+0.0 optimal 
+0.0 preserving 
+0.0 tree 
+0.0 improved 
+0.0 expression 
+0.0 set 
+0.0 sequential 
+0.0 application 
+0.0 discovery 
+0.0 mining 
+0.0 polynomial 
+0.0 data 

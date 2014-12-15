@@ -1,0 +1,75 @@
+3.03177808871 control concurrency 
+2.96434184053 real time 
+2.6648964449 oriented object 
+1.60965559556 data stream 
+1.1138749029 system database 
+1.04018662328 system distributed 
+1.03815102772 query processing 
+0.961837834526 query optimization 
+0.903817157262 database object 
+0.678403457413 database distributed 
+0.338517610776 query efficient 
+0.322328674427 query xml 
+0.268695291683 system data 
+0.01783550902 query database 
+0.0 shape 
+0.0 xml 
+0.0 architecture 
+0.0 sql 
+0.0 image 
+0.0 model 
+0.0 real 
+0.0 database 
+0.0 control 
+0.0 concurrency 
+0.0 distributed 
+0.0 aggregate 
+0.0 view 
+0.0 peer 
+0.0 join 
+0.0 approach 
+0.0 storage 
+0.0 motion 
+0.0 recovery 
+0.0 continuous 
+0.0 system 
+0.0 index 
+0.0 server 
+0.0 algorithm 
+0.0 structure 
+0.0 technique 
+0.0 querying 
+0.0 spatial 
+0.0 performance 
+0.0 using 
+0.0 memory 
+0.0 network 
+0.0 evaluation 
+0.0 relational 
+0.0 object 
+0.0 stream 
+0.0 based 
+0.0 parallel 
+0.0 optimization 
+0.0 transaction 
+0.0 efficient 
+0.0 query 
+0.0 file 
+0.0 method 
+0.0 scheduling 
+0.0 access 
+0.0 management 
+0.0 time 
+0.0 multi 
+0.0 dynamic 
+0.0 environment 
+0.0 tree 
+0.0 processing 
+0.0 adaptive 
+0.0 oriented 
+0.0 complex 
+0.0 update 
+0.0 multiple 
+0.0 data 
+-0.22844519981 query data 
+-0.28859912263 system query 

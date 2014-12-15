@@ -1,0 +1,75 @@
+0.0754 query 
+0.0372 processing 
+0.0331 distributed 
+0.0223 control 
+0.0222 optimization 
+0.0191 performance 
+0.0183 query processing 
+0.0172 xml 
+0.0169 parallel 
+0.0167 join 
+0.0158 view 
+0.0152 real 
+0.0151 index 
+0.0132 object 
+0.013 access 
+0.0122 memory 
+0.012 query database 
+0.0116 scheduling 
+0.0109 transaction 
+0.0101 query optimization 
+0.0097 file 
+0.0096 spatial 
+0.0096 adaptive 
+0.009 database object 
+0.0088 real time 
+0.0088 storage 
+0.0084 query data 
+0.0079 architecture 
+0.0079 sql 
+0.0078 concurrency 
+0.0078 server 
+0.0077 database distributed 
+0.0073 motion 
+0.0073 querying 
+0.0073 system distributed 
+0.0072 query efficient 
+0.007 recovery 
+0.0067 complex 
+0.0066 shape 
+0.0064 query xml 
+0.0064 continuous 
+0.0064 aggregate 
+0.0063 peer 
+0.0062 control concurrency 
+0.0062 update 
+0.0062 system data 
+0.0058 system query 
+0.0018 system database 
+0.0018 evaluation 
+0.0012 dynamic 
+0.0008 oriented object 
+0.0007 technique 
+0.0004 environment 
+-0.0007 oriented 
+-0.0021 stream 
+-0.0025 data stream 
+-0.0026 management 
+-0.003 structure 
+-0.0041 efficient 
+-0.0048 multiple 
+-0.0066 database 
+-0.0066 multi 
+-0.0069 image 
+-0.0077 approach 
+-0.0092 method 
+-0.0099 relational 
+-0.0122 network 
+-0.0131 tree 
+-0.0141 time 
+-0.0151 system 
+-0.0171 model 
+-0.0224 data 
+-0.0236 based 
+-0.0263 using 
+-0.0277 algorithm 
