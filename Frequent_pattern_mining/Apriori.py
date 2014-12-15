@@ -68,7 +68,7 @@ def rev_freq_pattern(fs):
 
 # A dictionary which contains the map of vocab.txt as key, value pairs
 def vocab_map():
-    f = open("data-assign3/vocab.txt", "r")
+    f = open("data/vocab.txt", "r")
     v_map = {}
     import re
     match_point = re.compile("\s+")
@@ -91,7 +91,7 @@ def apriori_generation(i, minsup, terms):
     no_of_lines -= 1
 
     # to generate all 1-itemset candidates
-    input_file = open("data-assign3/topic-" + (str(i)) + ".txt", "r")
+    input_file = open("data/topic-" + (str(i)) + ".txt", "r")
     c1 = {}
     f1 = {}
     for word in input_file.read().split():
